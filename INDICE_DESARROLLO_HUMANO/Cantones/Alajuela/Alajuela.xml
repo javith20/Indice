@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Alajuela</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/alajuela.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>1</num>
+   </Canton>
+</xml>
+
