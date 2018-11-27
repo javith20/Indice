@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Parrita</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/parrita.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>9</num>
+   </Canton>
+</xml>
+

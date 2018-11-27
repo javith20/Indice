@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Aguirre</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/aguirre.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>6</num>
+   </Canton>
+</xml>
+

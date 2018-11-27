@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Garabito</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/garabito.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>11</num>
+   </Canton>
+</xml>
+
