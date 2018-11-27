@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xml>
    <Canton>
-      <nombre>Acosta</nombre>
+      <nombre>Poas</nombre>
       <superficie>km</superficie>
-      <descripcion>img/Acosta.PNG</descripcion>
+      <descripcion>img/poas.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
-      <num>12</num>
+      <num>9</num>
    </Canton>
 </xml>
 
