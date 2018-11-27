@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>León Cortes</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/leoncortes.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>20</num>
+   </Canton>
+</xml>
+
