@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Bagaces</nombre>
+      <superficie>km</superficie>
+      <descripcion>img/bagaces.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>8</num>
+   </Canton>
+</xml>
+
