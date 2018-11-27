@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Puriscal</nombre>
+      <superficie> km</superficie>
+      <descripcion> </descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>4</num>
+   </Canton>
+</xml>
+

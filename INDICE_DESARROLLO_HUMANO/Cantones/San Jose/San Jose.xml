@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>San José</nombre>
+      <superficie>415.29 km</superficie>
+      <descripcion> </descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>1</num>
+   </Canton>
+</xml>
+

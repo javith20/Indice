@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Canton>
+      <nombre>Turrubares</nombre>
+      <superficie>415.29 km</superficie>
+      <descripcion>En la época precolombina el territorio que actualmente corresponde al cantón de Turrubares, estuvo habitado por indígenas huetares, que en los inicios de la conquista fueron dominios del rey Garabito. Los primeros pobladores que llegaron a la región, en la segunda mitad del siglo XIX, en su mayoría provenían de Tabarcia de Mora, así como de Santa Ana, Escazú, Atenas, Heredia y San Antonio de Belén. </descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
+      <num>16</num>
+   </Canton>
+</xml>
+
