@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xml>
    <Canton>
-      <nombre>Escazú</nombre>
-      <superficie> km</superficie>
+      <nombre>Escazu</nombre>
+      <superficie>km</superficie>
       <descripcion>img/escazu.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>2</num>
    </Canton>
 </xml>
+
+
+
+      
+     
+
 

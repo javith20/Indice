@@ -2,7 +2,7 @@
 <xml>
    <Canton>
       <nombre>Desamparados</nombre>
-      <superficie> km</superficie>
+      <superficie>km</superficie>
       <descripcion>img/desamparados.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>3</num>
