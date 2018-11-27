@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Vásquez de Coronado</nombre>
       <superficie> km</superficie>
-      <descripcion> </descripcion>
+      <descripcion>img/coronado.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>11</num>
    </Canton>

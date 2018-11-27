@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Santa Ana</nombre>
       <superficie>km</superficie>
-      <descripcion>a</descripcion>
+      <descripcion>img/santaana.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>9</num>
    </Canton>

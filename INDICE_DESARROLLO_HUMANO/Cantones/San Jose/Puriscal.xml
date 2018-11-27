@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Puriscal</nombre>
       <superficie> km</superficie>
-      <descripcion> </descripcion>
+      <descripcion>img/puriscal.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>4</num>
    </Canton>

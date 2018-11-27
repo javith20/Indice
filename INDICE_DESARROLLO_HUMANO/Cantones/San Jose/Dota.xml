@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Dota</nombre>
       <superficie>km</superficie>
-      <descripcion>a</descripcion>
+      <descripcion>img/dota.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>17</num>
    </Canton>

@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Alajuelita</nombre>
       <superficie>km</superficie>
-      <descripcion>a</descripcion>
+      <descripcion>img/Alajuelita.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>10</num>
    </Canton>

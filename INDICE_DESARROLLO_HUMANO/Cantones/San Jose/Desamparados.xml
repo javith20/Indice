@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Desamparados</nombre>
       <superficie> km</superficie>
-      <descripcion> </descripcion>
+      <descripcion>img/desamparados.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>3</num>
    </Canton>

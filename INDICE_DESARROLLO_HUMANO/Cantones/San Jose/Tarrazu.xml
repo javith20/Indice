@@ -3,8 +3,8 @@
    <Canton>
       <nombre>Tarrazú</nombre>
       <superficie>km</superficie>
-      <descripcion> </descripcion>
-      <rutaImagen>img/</rutaImagen>
+      <descripcion>img/tarrazu.PNG</descripcion>
+      <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>5</num>
    </Canton>
 </xml>

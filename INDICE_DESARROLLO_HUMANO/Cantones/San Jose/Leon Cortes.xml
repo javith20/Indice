@@ -3,7 +3,7 @@
    <Canton>
       <nombre>León Cortes</nombre>
       <superficie>km</superficie>
-      <descripcion>a</descripcion>
+      <descripcion>img/leoncortes.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>20</num>
    </Canton>

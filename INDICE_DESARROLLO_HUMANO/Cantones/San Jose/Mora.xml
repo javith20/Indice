@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Mora</nombre>
       <superficie> km</superficie>
-      <descripcion> </descripcion>
+      <descripcion>img/mora.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>7</num>
    </Canton>

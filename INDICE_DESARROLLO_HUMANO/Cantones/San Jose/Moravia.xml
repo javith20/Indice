@@ -3,7 +3,7 @@
    <Canton>
       <nombre>Moravia</nombre>
       <superficie>km</superficie>
-      <descripcion>a</descripcion>
+      <descripcion>img/moravia.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>14</num>
    </Canton>

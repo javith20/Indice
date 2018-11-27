@@ -3,7 +3,7 @@
    <Canton>
       <nombre>San José</nombre>
       <superficie>415.29 km</superficie>
-      <descripcion> </descripcion>
+      <descripcion>img/sanjose.PNG</descripcion>
       <rutaImagen>img/Turrubares.gif</rutaImagen>
       <num>1</num>
    </Canton>
